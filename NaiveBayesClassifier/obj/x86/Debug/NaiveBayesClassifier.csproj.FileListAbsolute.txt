@@ -1,7 +1,0 @@
-C:\Users\gozsaban\Desktop\homework1\NaiveBayesClassifier\NaiveBayesClassifier\bin\Debug\ProbabilityFunctions.exe
-C:\Users\gozsaban\Desktop\homework1\NaiveBayesClassifier\NaiveBayesClassifier\bin\Debug\ProbabilityFunctions.pdb
-C:\Users\gozsaban\Desktop\homework1\NaiveBayesClassifier\NaiveBayesClassifier\obj\x86\Debug\NaiveBayesClassifier.csprojResolveAssemblyReference.cache
-C:\Users\gozsaban\Desktop\homework1\NaiveBayesClassifier\NaiveBayesClassifier\obj\x86\Debug\ProbabilityFunctions.exe
-C:\Users\gozsaban\Desktop\homework1\NaiveBayesClassifier\NaiveBayesClassifier\obj\x86\Debug\ProbabilityFunctions.pdb
-C:\Users\gozsaban\Desktop\homework1\NaiveBayesClassifier\NaiveBayesClassifier\bin\Debug\MathNet.Numerics.dll
-C:\Users\gozsaban\Desktop\homework1\NaiveBayesClassifier\NaiveBayesClassifier\bin\Debug\MathNet.Numerics.xml
