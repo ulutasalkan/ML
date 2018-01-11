@@ -1,1 +1,3 @@
 # ML
+The assets of the balance sheet are divided into two main groups as "Current assets" and "Fixed assets". Current assets consist of sub-accounts such as bank accounts, receivables to be collected in a short time and product stocks of the company. Note that such assets have the ability to cash in or swiftly move into cash, and we can call returning assets "liquid assets. 
+Fixed assets include immovable (tangible fixed assets) such as partnerships (financial fixed assets), trademarks, patents and license rights (intangible fixed assets), possessed buildings or machines, ownership of investments and long-term receivables as well as assets that are not readily convertible into cash. The sum of current assets and fixed assets is called "total assets".
